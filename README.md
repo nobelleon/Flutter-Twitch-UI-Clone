@@ -1,4 +1,4 @@
-# Flutter-Twitch-UI-Clone
+# Flutter-Twitch-UI-Clone 
 
 ![Twitch UI App](https://github.com/user-attachments/assets/158b472a-1e56-424f-9d8e-76e437b08004)
 
